@@ -1,7 +1,7 @@
 shopping_list = {
     "piekarnia": ["chleb", "bułki", "pączek", "chałka"],
-    "warzywniak": ["marchew", "seler", "rukola"]
-
+    "warzywniak": ["marchew", "seler", "rukola"],
+    "apteka": ["lek na katar"]
 }
 amount = 0
 for shop, products in shopping_list.items():
