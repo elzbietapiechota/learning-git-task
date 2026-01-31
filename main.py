@@ -15,3 +15,4 @@ for shop, products in shopping_list.items():
 
 print(f"W sumie kupuję {amount} produktów")
 
+print("Pozdrowienia dla mentora :)")
